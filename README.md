@@ -90,9 +90,9 @@ Para uso pessoal, testes e aprendizado, o código está licenciado sob a MIT Lic
 
 | Nome                 | Função                                    | Instituição |
 | -------------------- | ----------------------------------------- | ----------- |
-| **Enzo Allebrand**   | Desenvolvimento e Integração de Hardware  | SETREM      |
-| **Kauã Patricki**    | Estrutura de Dados e Testes de Desempenho | SETREM      |
-| **Leonardo Herkert** | Documentação Técnica e Coordenação        | SETREM      |
+| **Enzo Allebrand**   | Estudante de Engenharia de Computação     | SETREM      |
+| **Kauã Patricki**    | Estudante de Engenharia de Computação     | SETREM      |
+| **Leonardo Herkert** | Estudante de Engenharia de Computação     | SETREM      |
 
 ---
 
